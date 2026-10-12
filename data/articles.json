@@ -1,0 +1,98 @@
+[
+  {
+    "id": "remote-work",
+    "title": "Why remote teams are rethinking the office",
+    "body": "Remote work changed how teams collaborate. Many companies now offer hybrid schedules, and managers are rethinking how to measure output. Office space is shrinking while collaboration tools keep growing. Employees say flexibility improves focus, yet new hires often miss informal mentoring. Teams that document decisions and hold regular check-ins report fewer misunderstandings. The next challenge is keeping culture strong when people rarely meet in person.",
+    "tags": [
+      "remote work",
+      "management",
+      "culture"
+    ],
+    "category": "Work",
+    "publishedAt": "2026-09-10"
+  },
+  {
+    "id": "street-food",
+    "title": "A guide to street food in Ho Chi Minh City",
+    "body": "Street food defines daily life in Ho Chi Minh City. Vendors sell banh mi, broken rice, and fresh noodles from early morning until late night. Locals often choose stalls by the length of the queue rather than by reviews. Prices stay low, and recipes are passed down through families. Visitors should try small portions at several stalls instead of one big meal. Evening markets offer the widest variety and the liveliest atmosphere.",
+    "tags": [
+      "food",
+      "travel",
+      "vietnam"
+    ],
+    "category": "Food",
+    "publishedAt": "2026-09-11"
+  },
+  {
+    "id": "ai-newsroom",
+    "title": "How newsrooms are using AI without losing trust",
+    "body": "Newsrooms are experimenting with AI for transcription, translation, and headline testing. Editors insist that every AI-assisted draft is reviewed by a person before publication. Trust depends on clear disclosure, so readers know when AI was involved. Some teams build internal tools that suggest tags and summaries rather than full articles. Accuracy checks remain the slowest step, and automation helps most with repetitive tasks. The goal is faster workflows, not replacing editorial judgment.",
+    "tags": [
+      "ai",
+      "media",
+      "editorial"
+    ],
+    "category": "Technology",
+    "publishedAt": "2026-09-12"
+  },
+  {
+    "id": "startup-funding",
+    "title": "What founders get wrong about early funding",
+    "body": "Early funding rounds often fail because founders pitch a product instead of a problem. Investors look for evidence that customers will pay, not only a polished demo. Founders who talk to users before building usually raise faster. Burn rate matters more than valuation in the first year. Clear milestones make the next round easier to raise. Good advisors help founders avoid rushing into funding they do not need.",
+    "tags": [
+      "startup",
+      "funding",
+      "business"
+    ],
+    "category": "Business",
+    "publishedAt": "2026-09-13"
+  },
+  {
+    "id": "mental-health-work",
+    "title": "Small habits that protect your focus at work",
+    "body": "Constant notifications drain attention and raise stress. Researchers suggest batching messages into two or three check-ins per day. Short walks between meetings help reset concentration. Protecting one block of deep work each morning improves output more than long hours. Sleep remains the strongest factor in focus, and caffeine cannot replace it. Employers who respect off-hours see lower burnout across teams.",
+    "tags": [
+      "health",
+      "productivity",
+      "remote work"
+    ],
+    "category": "Health",
+    "publishedAt": "2026-09-14"
+  },
+  {
+    "id": "cafe-culture",
+    "title": "Why Saigon cafe culture keeps growing",
+    "body": "Saigon cafes serve as offices, meeting rooms, and social spaces. Owners compete with unique interiors and specialty coffee from the highlands. Students and freelancers stay for hours, so cafes design seating for long visits. Cold brew and egg coffee attract younger customers. Many shops now roast their own beans to control quality. The trend shows no sign of slowing as new neighborhoods open more venues.",
+    "tags": [
+      "food",
+      "vietnam",
+      "lifestyle"
+    ],
+    "category": "Lifestyle",
+    "publishedAt": "2026-09-15"
+  },
+  {
+    "id": "api-design",
+    "title": "Five habits of well designed REST APIs",
+    "body": "Good REST APIs use consistent naming and predictable status codes. Pagination should be built in from the start because lists always grow. Clear error messages save client developers hours of debugging. Versioning prevents breaking existing users when requirements change. Documentation with real examples is more useful than long descriptions. Teams that review API designs before coding catch problems early.",
+    "tags": [
+      "api",
+      "backend",
+      "engineering"
+    ],
+    "category": "Technology",
+    "publishedAt": "2026-09-16"
+  },
+  {
+    "id": "cost-of-living",
+    "title": "How young professionals manage rising living costs",
+    "body": "Rent and food prices push many young professionals to budget more carefully. Sharing apartments remains the most common way to save. Some choose cities with lower costs and work remotely. Tracking spending for one month usually reveals avoidable subscriptions. Emergency savings give people confidence to change jobs. Financial planning habits formed early compound over decades.",
+    "tags": [
+      "business",
+      "remote work",
+      "personal finance"
+    ],
+    "category": "Business",
+    "publishedAt": "2026-09-17"
+  }
+]
